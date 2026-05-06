@@ -1,0 +1,9 @@
+{
+  "name": "envio-logistica",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.10"
+  }
+}
